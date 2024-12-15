@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+} */
+
+
+
+.hero{
+  background-size: cover;
+  background-position: center;
+  height:80vh ;
+  /* min-height: min-content;
+  width: 1821px;
+  min-height: 100dvh; */
+  
+   overflow: hidden;
+  display: flex;
+  justify-content: left;
+  align-items:center;
+  text-align: center;
+  color: white;
+  padding-left: 60px;
+}  
+/* .hero h1{
+  font-size: 58px;
+  text-shadow: 2px 2px 5px rgba(0,0,0, 0.5);
+}
+.her p{
+font-size: 30px;
+margin-top: 10px;
+} */
+/* .hero button{
+  margin-top: 20px;
+  padding: 10px 20px ;
+  background-color: green;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  transition:background-color 0.3s ease ;
+}
+.hero button:hover{
+  background-color: rgb(4, 102, 4);
+}  */
+
+.container{
+  max-width:1400px;
+  padding:0 2rem;
+  margin:0 auto;
+}
