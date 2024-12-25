@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Facebook from "../../public/Aboutimages/Facebook.png";
 import Iinstagram from "../../public/Aboutimages/Iinstagram.png";
-import Twitter from "../../public/Aboutimages/twitter.png";
+import Twitter from "../../public/Aboutimages/Twitter.png";
 import AboutNavber from "@/components/AboutNavber";
 const ContactHero = () => {
   return (
