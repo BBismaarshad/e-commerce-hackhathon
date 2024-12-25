@@ -5,7 +5,7 @@ import Media2 from "../../public/Aboutimages/Media2.png";
 import Media3 from "../../public/Aboutimages/Media3.jpg";
 import Facebook from "../../public/Aboutimages/Facebook.png";
 import Iinstagram from "../../public/Aboutimages/Iinstagram.png";
-import Twitter from "../../public/Aboutimages/twitter.png";
+import Twitter from "../../public/Aboutimages/Twitter.png";
 
 const AboutTeam = () => {
   return (
